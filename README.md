@@ -1,6 +1,5 @@
 # Movie Analyse for Microsoft
 ![Microsoft](https://github.com/ShugaSaing/solo-project-movie/blob/main/images/Screen%20Shot%202023-03-10%20at%202.31.27%20PM.png)
-project for flatiron
 ### Overview
 The purpose of this project is to analyze the movies data sets to produce 3 important recommendation to help jump start microsoft stepping in the movie industry. Our findings will include: how, where and what to start with. Let's dive in! 
 The top two genres according to the results are fantasy romance and adventure drama sport. These genres are well-liked by audiences and critics alike. Typically, fantasy romance films contain a protagonist in a exceptional and thought-provoking circumstance, whereas adventure drama sports films involve a hero or group of heroes overcoming a daunting obstacle. These genres recurrently have aspects of surprise and suspense, as well as bold, imaginative protagonists. As a result, these films are likely to attract a huge audience and generate a profit. Reality is that teenagers and young adults are the ones who has most of their time focus on social medias, following new trends and yes, checking out latest movie release. These two genre catches the attention of the younger generation.
